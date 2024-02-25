@@ -2,15 +2,19 @@ h1, h2, p {
     text-align: center;
 }
 body {
-    background-image: url(https://png.pngtree.com/background/20210717/original/pngtree-red-yellow-blue-watercolor-gradient-abstract-background-picture-image_1446412.jpg);
+    background-image: url(/background.jpg);
+    font-family: sans-serif;
 }
 /* id selector = #id */
 /* class selector = .class-name */
 .menu {
     width: 80%;
+    /*max-width= prevent the menu class to wide*/
+    max-width: 500px;
     background-color: lightblue;
     margin-left: auto;
     margin-right: auto;
+    padding: 20px;
 }
 .appt, .entree {
     text-align: left;
