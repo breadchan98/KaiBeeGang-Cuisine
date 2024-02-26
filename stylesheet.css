@@ -28,6 +28,14 @@ h2 {
     margin-right: auto;
     padding: 20px;
 }
+img {
+    display:block;
+    max-width: 50%;
+    max-height: 50%;;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:-25px;
+}
 hr {
     height: 5px;
     background-color: black;
