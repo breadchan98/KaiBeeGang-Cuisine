@@ -4,4 +4,4 @@ A restaurant menu, including entrees, deserts, and appetizers and pricing, creat
 
 It features color, border, font changes, etc. Inspired by Cafe Menu in freecodecamp. Modification changes, similar concept.
 
-**Page view:** https://breadchan98.github.io/KaiBeeGang-Cuisine
+![preview of photo](/preview.png)
